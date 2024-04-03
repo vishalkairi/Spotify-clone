@@ -1,0 +1,4 @@
+/spotify_backend/node_modules
+/spotify_backend/.env
+
+/spotify_frontend/.env
